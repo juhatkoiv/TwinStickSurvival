@@ -1,6 +1,7 @@
-# Twin Stick Survival - Prototype
+# Twin Stick Survival - Prototype (developed for PC)
 
 ## How to play
+
 ### Overall idea
 - The goal is to collect as much scores as possible by destroying hostile enemies.
 - If player is collided 10 times (can be adjusted), the game ends.
